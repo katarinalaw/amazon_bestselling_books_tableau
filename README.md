@@ -6,3 +6,5 @@ Created a Tableau Dashboard for data visualization.
 
 Tool:
 Tableau
+
+https://public.tableau.com/app/profile/katarina.law/viz/AmazonBestSellingBooks_16783971951170/Dashboard
